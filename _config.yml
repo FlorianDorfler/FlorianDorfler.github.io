@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Prof. Dr. Florian Dörfler"
 title_separator          : "-"
-name                     : &name #"Florian Dörfler"
-description              : &description #"no personal description"
+name                     : &name "Florian Dörfler"
+description              : &description "no personal description"
 url                      : https://floriandorfler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FlorianDorfler/FlorianDorfler.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "I am a Full Professor at the Automatic Control Laboratory at ETH Zürich. I am privileged to work with an outstanding research group on topics centered entered around automatic control, system theory, and optimization with applications primarily in the energy domain."
   location         : "Zürich, Switzerland"
   employer         : "ETH Zürich"
-  uri              : # URL
+  uri              : https://ethz.ch/en.html
   email            : "dorfler@ethz.ch" 
 
   # Academic websites
