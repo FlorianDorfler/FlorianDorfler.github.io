@@ -21,7 +21,7 @@ repository               : "FlorianDorfler/FlorianDorfler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "doerfler-florian-lightboard-square.jpg"
+  avatar           : "florian-doerfler-lightboard-square.png"
   name             : "Florian Dörfler"
   pronouns         : # example: "she/her"  
   bio              : "I am a Full Professor at the Automatic Control Laboratory at ETH Zürich. I am privileged to work with an outstanding research group on topics centered entered around automatic control, system theory, and optimization with applications primarily in the energy domain."
